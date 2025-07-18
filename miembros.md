@@ -23,3 +23,4 @@
 21. Giganta
 22. Deadshot
 23. Thanos
+24. Black panther
